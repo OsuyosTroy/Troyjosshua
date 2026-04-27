@@ -25,7 +25,7 @@ $activePage = $activePage ?? '';
         </a>
         <div class="topbar-gap"></div>
         <nav class="nav" aria-label="Main navigation">
-            <a class="nav-a<?= $activePage === 'collection' ? ' active' : '' ?>" href="collection.php">Vaults</a>
+            <a class="nav-a<?= $activePage === 'Diarry games' ? ' active' : '' ?>" href="header.php">Vaults</a>
             <a class="btn btn-neon btn-sm" href="create.php">+ New Vault</a>
         </nav>
     </div>
