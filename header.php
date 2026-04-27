@@ -13,7 +13,7 @@ $activePage = $activePage ?? '';
     <link rel="stylesheet" href="styles.css">
     <script src="app.js" defer></script>
 </head>
-<body>
+<body>//..dgdfjghk//
 <header class="topbar">
     <div class="topbar-inner">
         <a class="brand" href="collection.php" aria-label="Arcadia Vault home">
